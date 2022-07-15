@@ -1,4 +1,4 @@
-﻿# Forkify-Course-
+﻿# Forkify(Course)
 
 Use:
 ```
