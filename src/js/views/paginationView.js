@@ -15,6 +15,7 @@ class PaginationView extends View {
       handler(goToPage);
     });
   }
+
   _generateMarkup() {
     const curPage = this._data.page;
 
